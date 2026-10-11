@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Falar</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="ready_streak">Ready to keep your streak going?</string>
+
+    <string name="streak_count">7</string>
+    <string name="streak_label">DAY STREAK</string>
+
+    <string name="points_count">1,240</string>
+    <string name="points_label">POINTS</string>
+
+    <string name="rank_count">#5</string>
+    <string name="rank_label">CLASS RANK</string>
+
+    <string name="quick_actions">Quick Actions</string>
+
+    <string name="my_courses">My Courses</string>
+    <string name="my_courses_sub">4 in progress</string>
+
+    <string name="achievements">Achievements</string>
+    <string name="achievements_sub">12 badges</string>
+
+    <string name="progress">Progress</string>
+    <string name="progress_sub">68% complete</string>
+
+    <string name="profile">Profile</string>
+    <string name="profile_sub">View account</string>
+
+    <string name="continue_learning">Continue Learning</string>
+</resources>
